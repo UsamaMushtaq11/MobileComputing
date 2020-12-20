@@ -1,4 +1,5 @@
-package com.usamamushtaq.quizapplicationbitf17a539;
+package haqnawaz.org.navigationdrawer;
+
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -157,7 +158,7 @@ public class Quiz extends AppCompatActivity {
                 radio_g.clearCheck();
             }
         });
-     time= (TextView) findViewById(R.id.DispTime);
+        time= (TextView) findViewById(R.id.DispTime);
 
 
         new CountDownTimer(120000, 1000){

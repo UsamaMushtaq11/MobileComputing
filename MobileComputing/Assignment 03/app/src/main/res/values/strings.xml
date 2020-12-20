@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="open">Openning</string>
+    <string name="close">Closing</string>
+
+        <string name="your_score">Your Score</string>
+        <string name="UsamaMushtaq">Usama Mushtaq</string>
+        <string name="bitf17a539pucit.edu.pk">bitf17a539@pucit.edu.pk</string>
+        <string name="ZainYaseen">Zain Yaseen</string>
+        <string name="bitf17a521pucit.edu.pk">bitf17a521@pucit.edu.pk</string>
+        <string name="app_name">Quiz App</string>
+</resources>
